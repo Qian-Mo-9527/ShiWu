@@ -1,0 +1,7 @@
+SQLite 3.53.4 amalgamation is bundled as sqlite3.c and sqlite3.h.
+Official source: https://www.sqlite.org/2026/sqlite-amalgamation-3530400.zip
+SQLite is in the public domain: https://www.sqlite.org/copyright.html
+
+The application and database layer are compiled as C. Runtime interface,
+image decoding and password derivation use Windows system APIs.
+The bundled interface illustrations and icons were created for this project.
